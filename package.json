@@ -13,7 +13,7 @@
     "start": "cross-env NODE_ENV=dev run-p watch:*",
     "build": "cross-env NODE_ENV=production run-s build:*"
   },
-  "author": "Max Kohler",
+  "author": "Kyle Parker Cunningham",
   "license": "ISC",
   "homepage": "/",
   "dependencies": {
